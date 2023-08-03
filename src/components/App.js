@@ -1,11 +1,11 @@
-import { Profiler } from "./Profile";
-
+import { Profile } from "./Profile";
+import profileruser from '../user.json';
 export const App = () => {
   return (
     <div>
-     <Profiler /> 
+      <Profile user={ profileruser} /> 
     
-      React homework template
+      
     </div>
   );
 };
