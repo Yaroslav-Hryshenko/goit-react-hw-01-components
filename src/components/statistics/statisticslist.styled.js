@@ -8,18 +8,13 @@ export const Statistic = styled.section`
 `;
 export const StatisticsTitle = styled.h2`
   text-transform: uppercase;
-  margin: 0 auto;
   text-align: center;
-  background-color: #f0f3f5;
+  background-color: #ffffffbd;
   padding: 10px 0 10px 0;
 `;
 export const StatisticsLists = styled.ul`
   display: flex;
-  text-align: center;
   justify-content: center;
-  padding: 0;
-  margin: 0 auto;
-
   border-radius: 0 0 10px 10px;
 `;
 export const StatisticsItem = styled.li`
@@ -27,17 +22,14 @@ export const StatisticsItem = styled.li`
   flex-direction: column;
   width: 20%;
   text-align: center;
-  height: 100px;
-
+  height: 50px;
+  padding-top: 5px;
   :nth-of-type(1) {
-    background-color: #03b6fc;
-    height: 50px;
-    
+    background-color: #ff0000ab;
   }
 
   :nth-of-type(2) {
-    background-color: #e5f054;
-    height: 50px;
+    background-color: #0000ffa1;
   }
 
   :nth-of-type(3) {
@@ -55,5 +47,4 @@ export const StatisticsItem = styled.li`
 
 export const Statistics = styled.span`
   font-weight: 700;
-
 `;
