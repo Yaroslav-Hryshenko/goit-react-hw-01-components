@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-homework-template/static/css/main.b5320759.css",
-    "main.js": "/react-homework-template/static/js/main.12259b92.js",
-    "index.html": "/react-homework-template/index.html",
-    "main.b5320759.css.map": "/react-homework-template/static/css/main.b5320759.css.map",
-    "main.12259b92.js.map": "/react-homework-template/static/js/main.12259b92.js.map"
+    "main.css": "/Yaroslav-Hryshenko/goit-react-hw-01-components/static/css/main.b5320759.css",
+    "main.js": "/Yaroslav-Hryshenko/goit-react-hw-01-components/static/js/main.196d2e95.js",
+    "index.html": "/Yaroslav-Hryshenko/goit-react-hw-01-components/index.html",
+    "main.b5320759.css.map": "/Yaroslav-Hryshenko/goit-react-hw-01-components/static/css/main.b5320759.css.map",
+    "main.196d2e95.js.map": "/Yaroslav-Hryshenko/goit-react-hw-01-components/static/js/main.196d2e95.js.map"
   },
   "entrypoints": [
     "static/css/main.b5320759.css",
-    "static/js/main.12259b92.js"
+    "static/js/main.196d2e95.js"
   ]
 }
