@@ -37,6 +37,9 @@ export const ProfileList = styled.ul`
   border-radius: 0 0 20px 20px;
   justify-content: center;
   border-top: 1px solid;
+  padding: 0;
+  margin: 0;
+  background-color: #b6d9fa;
 `;
 export const ProfileItem = styled.li`
   display: flex;
