@@ -9,15 +9,15 @@ export const Transaction = styled.table`
   border: 2px solid white;
 `;
 export const TransactionHead = styled.thead`
-  background-color: #004aff3b;
+  background-color: #03b6fc;
   height: 50px;
 `;
 export const TransactionsTb = styled.tbody`
   text-align: center;
   height: 30px;
-  background-color: #dddddd99;
+  background-color: #f0f3f5;
   :nth-of-type(2n) {
-    background-color: #88888870;
+    background-color: #e5f054;
   }
   :hover {
     color: blue;
